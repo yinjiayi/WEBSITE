@@ -2,6 +2,7 @@
 /**
  * RSS输出
  *EMLOG @copyright (c) Emlog All Rights Reserved
+ *import
  */
 
 require_once './init.php';
