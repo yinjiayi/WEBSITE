@@ -1,6 +1,7 @@
 <?php
 /**
  * RSS输出
+ * RSS输出
  *EMLOG @copyright (c) Emlog All Rights Reserved
  *import
  */
