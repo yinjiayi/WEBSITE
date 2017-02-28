@@ -11,3 +11,4 @@ define('TEMPLATE_PATH', TPLS_PATH.Option::get('nonce_templet').'/');//前台模�
 $emDispatcher = Dispatcher::getInstance();
 $emDispatcher->dispatch();
 View::output();
+。。。
