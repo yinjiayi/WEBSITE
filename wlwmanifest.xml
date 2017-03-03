@@ -8,7 +8,7 @@
 	<weblog>
 		<serviceName>Emlog</serviceName>
 		<homepageLinkText>查看网站</homepageLinkText>
-		<adminLinkText>后台管理</adminLinkText>
+		<adminLinkText>后台管。理</adminLinkText>
 		<adminUrl>
 			<![CDATA[ 
 				{blog-postapi-url}/../admin/ 
